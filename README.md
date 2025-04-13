@@ -1,0 +1,1 @@
+A Java web application for managing quotes with dual-service architecture. The main service handles quote submission, storage, and display, while a secondary internal service provides the "quote of the day" via socket communication and JSON.
